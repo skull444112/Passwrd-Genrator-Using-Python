@@ -1,4 +1,4 @@
-Password Generator
+<h2>Password Generator<h2>
 This is a simple Python project that generates random passwords and writes them to a file. It allows the user to specify the number of passwords, the file name, and the desired character types for each password.
 
 Features
