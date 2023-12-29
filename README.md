@@ -1,7 +1,4 @@
 <html>
-<head>
-    <title>Password Generator</title>
-</head>
 <body>
     <h1>Password Generator</h1>
     <p>This is a Python project that creates random and secure passwords and saves them to a file. You can customize the number of passwords, the file name, and the character types for each password.</p>
